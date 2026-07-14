@@ -36,7 +36,3 @@
 - STM32
 - Computer Vision
 
-## Connect
-
-LinkedIn: (Your LinkedIn)
-Email: your@email.com
